@@ -1,0 +1,42 @@
+#history {
+	/*text-align: left;*/
+	height: 76px;
+	width: 55px;
+	background-color: transparent;
+	float: left;
+	vertical-align: middle;
+	padding-top: 15px;
+	border-right: 2px solid;
+	border-color: white;
+	/*vertical-align: center;*/
+}
+
+#title {
+	background-color: coral;
+	padding: 5px;
+	float: center;
+}
+
+#footer {
+	background-color: coral;
+	clear: both;
+	text-align: center;
+	padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+p {
+	padding: 5px;
+	clear: both;
+	text-align: left;
+	color: black;
+}
